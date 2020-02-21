@@ -1,0 +1,16 @@
+h1 {
+	font-size: 80px;
+	color: red;
+	padding: 20px;
+}
+
+.header h1 {
+	font-size: 50px;
+	background: black;
+	color: white;
+}
+
+body {
+	background: efefef;
+	font-family: arial;
+}
